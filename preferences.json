@@ -1,4 +1,7 @@
-favourite movie
-favourite food
-spring
-USA
+{
+	"favouriteMovie": "HomeAlone",
+	"favouriteSerial": "Friends",
+	"favouriteFood": "pizza",
+	"favouriteSeason": "spring",
+	"the country you would like to visit": "1500$"
+}
